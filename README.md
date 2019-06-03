@@ -9,3 +9,6 @@ to recognize audio and images captchas  online for free using Google servers wit
 exploitation of unwanted google's resources so use it at your own risk, i'm not resposable of what you do with it.
 
 Such services use machine learning to recognize audio and images and return for free the result.
+
+
+You should probably change something in the code like the recognized leanguage.
