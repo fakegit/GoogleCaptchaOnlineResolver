@@ -1,7 +1,7 @@
 These codes written in python 3.0 it could be used to use Google's online services such as 
 
 
-https://cloud.google.com/speech-to-text/
+https://cloud.google.com/speech-to-text/ and 
 https://cloud.google.com/vision/
 
 
